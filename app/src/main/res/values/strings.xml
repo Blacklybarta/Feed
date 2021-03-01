@@ -1,0 +1,13 @@
+<resources>
+
+    <!--Bottom navigation-->
+    <string name="feed">Feed</string>
+
+    <string name="app_name">News</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_news">No new information found</string>
+    <string name="no_network">No network, please check your connection</string>
+
+    <string name="arts">Arts</string>
+
+</resources>

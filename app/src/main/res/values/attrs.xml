@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="clock_img" format="reference" />
+    <attr name="arts_text" format="reference" />
+</resources>
